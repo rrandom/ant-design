@@ -1,9 +1,17 @@
 ---
 order: 3
-title: 讨嫌的小红点
+title:
+  zh-CN: 讨嫌的小红点
+  en-US: Red dot
 ---
 
+## zh-CN
+
 没有具体的数字。
+
+## en-US
+
+Just Red dot without specific count.
 
 ````jsx
 import { Badge, Icon } from 'antd';
